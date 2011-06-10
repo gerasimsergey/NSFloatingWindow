@@ -1,0 +1,1 @@
+This project enables usage of NSView as a floating window that can be placed anywhere on the screen detached or attached from the parent window. Works on Mac OS X 10.5+
